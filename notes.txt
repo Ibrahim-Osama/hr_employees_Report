@@ -1,0 +1,17 @@
+trim clean for all table captialize for all except id 
+
+Employee_ID 
+1- remove blanks in all table  			 power and excel 
+2- remove doublecate           			 power and excel
+
+Full_Name
+1- Replace null and blanks with unknown        power and excel
+2- 
+
+age
+1-claen all data replace it with median
+
+
+gender
+1- fe null fe gender	
+2- 
